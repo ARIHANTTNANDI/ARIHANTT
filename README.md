@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning Cyber Security<br>💬 Ask me about anything u wish (:<br>⚡ Fun fact : I am enthusiastic in learning any language
+🔭 I’m currently working on Machine Learning and Cyber Security<br>👯 I’m looking to collaborate with different people on Web Development<br>🌱 I’m currently learning Cyber Security<br>💬 Ask me about anything u wish (:<br>⚡ Fun fact : I am enthusiastic in learning any language.<br>My tech stack is Java and my primary focus is on development via Java.<br>
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ARIHANTT&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="712px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ARIHANTT&icon=9&color=10)](https://visitcount.itsvg.in)
